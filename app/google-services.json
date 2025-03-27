@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "270954247062",
+    "project_id": "project1b-2dd55",
+    "storage_bucket": "project1b-2dd55.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270954247062:android:09e290688d3435894023b7",
+        "android_client_info": {
+          "package_name": "com.company.plantwise"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVe_8msmYotErfWtDwl1KiL3XyzncoNJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270954247062:android:51c92049926b3d5c4023b7",
+        "android_client_info": {
+          "package_name": "com.example.login"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVe_8msmYotErfWtDwl1KiL3XyzncoNJM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
