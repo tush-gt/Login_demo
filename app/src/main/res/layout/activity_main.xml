@@ -5,18 +5,20 @@
     android:id="@+id/main"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/bg"
     tools:context=".MainActivity">
 
     <TextView
         android:id="@+id/signup"
         android:layout_width="194dp"
         android:layout_height="74dp"
-        android:layout_marginTop="64dp"
+        android:layout_marginTop="80dp"
         android:fontFamily="cursive"
         android:text="Login"
         android:textAlignment="center"
         android:textSize="34sp"
         app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.497"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
@@ -68,10 +70,10 @@
         android:layout_height="67dp"
         android:layout_marginStart="20dp"
         android:layout_marginBottom="136dp"
-        android:fontFamily="sans-serif-condensed"
-        android:text="Sign Up"
+        android:fontFamily="serif"
+        android:text="Login"
         android:textAlignment="center"
-        android:textSize="20sp"
+        android:textSize="24sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
